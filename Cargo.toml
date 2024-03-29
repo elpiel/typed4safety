@@ -1,0 +1,29 @@
+[package]
+name = "typed4safety"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Lachezar Lechev <elpiel93@gmail.com>"]
+license = "MIT OR Apache-2.0"
+
+[features]
+default = ["std"]
+
+std = []
+multiplier = []
+uom = []
+
+[dependencies]
+# Number utils
+num = { version = "0.4", default-features = false, features = ["libm"] }
+
+typed-builder = { version = "0.18" }
+
+# Units of Measurement
+uom = { version = "0.36", default-features = false, features = ["autoconvert", "usize", "f32", "f64", "si", "u64"] }
+# Const WIP impl
+# const_units = { path = "../const_units" }
+
+bmp388 = { git = "https://github.com/ibutra/bmp388", rev = "2a1dc04", features = ["config-builder", "asynch"] }
+
+typenum = { version = "1.17", features = ["const-generics"] }
