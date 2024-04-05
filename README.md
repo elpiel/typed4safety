@@ -5,12 +5,7 @@ Rust Nation: https://www.rustnationuk.com
 
 ### Video
 
-#### Standalone video: TBA
-
-
-#### Play from stream
-
-[![Stream thumbnail](https://i3.ytimg.com/vi/lw62M9FKxZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=lw62M9FKxZU&t=4868s)
+[![Video thumbnail](https://i3.ytimg.com/vi/pnloY3pDgk4/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnloY3pDgk4)
 
 ### Slides
 
