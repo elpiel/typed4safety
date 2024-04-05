@@ -3,6 +3,8 @@
 
 Rust Nation: https://www.rustnationuk.com
 
+The NASA report on the incident: https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf
+
 ### Video
 
 [![Video thumbnail](https://i3.ytimg.com/vi/pnloY3pDgk4/maxresdefault.jpg)](https://www.youtube.com/watch?v=pnloY3pDgk4)
